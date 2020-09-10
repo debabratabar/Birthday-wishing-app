@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wish Card</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="create_wish_card">Create Wish Card</string>
+    <string name="name">Name</string>
+    <string name="to">to</string>
+    <string name="from">from</string>
+    <string name="click_me">click Me!</string>
+    <string name="bornfire_at_the_beach">Bornfire At The Beach</string>
+    <string name="kunal">kunal</string>
+    <string name="kagure">kagure</string>
+    <string name="omoju">omoju</string>
+    <string name="natalie">natalie</string>
+    <string name="amy">Amy</string>
+    <string name="ben">Ben</string>
+    <string name="lyla">Lyla</string>
+    <string name="from_debu">from Debu</string>
+    <string name="happy_birthday_subrata">Happy birthday, Subrata !</string>
+</resources>
